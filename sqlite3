@@ -1,0 +1,5 @@
+-- from linux, enter sqlite3 to have the prompt changed to sqlite
+hit tab will filling the rest of the file/folder name
+git config --global user.name "Peter"
+git config --global core.editor "nano"
+wimpty sqlite3 for window
